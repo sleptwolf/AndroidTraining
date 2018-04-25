@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Learning5</string>
+    <string name="buttonName">Button</string>
+    <string name="textviewData">TextView</string>
+</resources>
